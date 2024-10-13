@@ -23,7 +23,7 @@
 ### Compilation Command:
 To compile the code, use the following command:
 ```bash
-g++ sc.cpp -o screen_key -lncurses -lpthread -lX11 -lXi
+g++ CScreenkey.cpp -o screen_key -lncurses -lpthread -lX11 -lXi
 ```
 Explanation:
 - `-lncurses`: Links the ncurses library for terminal-based UI.
@@ -47,7 +47,7 @@ Explanation:
 ### Compilation Command:
 You can compile using MinGW with the following command:
 ```bash
-g++ sc.cpp -o screen_key.exe -lpdcurses -lpthread
+g++ CScreenkey.cpp -o screen_key.exe -lpdcurses -lpthread
 ```
 Explanation:
 - `-lpdcurses`: Links PDCurses for terminal UI in Windows.
