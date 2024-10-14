@@ -62,6 +62,10 @@ void renderText(const std::string& inputText) {
 }
 
 void initializeKeyMappings() {
+    specialKeyMap[XK_Page_Up] = "PAGE UP";        // PageUp key
+    specialKeyMap[XK_Page_Down] = "PAGE DOWN";    // PageDown key
+    specialKeyMap[XK_Home] = "HOME";              // Home key
+    specialKeyMap[XK_End] = "END";                // End key
     specialKeyMap[1] = "MOUSE LEFT CLICK";
     specialKeyMap[2] = "MOUSE MIDDLE CLICK";  // Fixed middle-click support
     specialKeyMap[3] = "MOUSE RIGHT CLICK";
