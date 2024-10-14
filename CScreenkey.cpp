@@ -62,19 +62,6 @@ void renderText(const std::string& inputText) {
 }
 
 void initializeKeyMappings() {
-    specialKeyMap[XK_Control_L] = "CTRL";
-    specialKeyMap[XK_Shift_L] = "SHIFT";
-    specialKeyMap[XK_Alt_L] = "ALT";
-    specialKeyMap[XK_Super_L] = "SUPER";
-    specialKeyMap[XK_Return] = "ENTER";
-    specialKeyMap[XK_Escape] = "ESCAPE";
-    specialKeyMap[XK_Up] = "UP";
-    specialKeyMap[XK_Down] = "DOWN";
-    specialKeyMap[XK_Left] = "LEFT";
-    specialKeyMap[XK_Right] = "RIGHT";
-    specialKeyMap[XK_Tab] = "TAB";
-    specialKeyMap[XK_BackSpace] = "BACKSPACE";
-    specialKeyMap[XK_Caps_Lock] = "CAPS LOCK";
     specialKeyMap[1] = "MOUSE LEFT CLICK";
     specialKeyMap[2] = "MOUSE MIDDLE CLICK";  // Fixed middle-click support
     specialKeyMap[3] = "MOUSE RIGHT CLICK";
