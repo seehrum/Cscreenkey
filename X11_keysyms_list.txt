@@ -1,5 +1,3 @@
-
-Teclas de Navegação:
 Page Up        | XK_Page_Up         
 Page Down      | XK_Page_Down       
 Home           | XK_Home            
@@ -62,6 +60,11 @@ Ponto             | XK_period
 Ponto e vírgula   | XK_semicolon     
 Dois pontos       | XK_colon         
 Interrogação      | XK_question      
+Igual (=)         | XK_equal         
+Menos (-)         | XK_minus         
+Barra (/)         | XK_slash         
+Barra invertida (\) | XK_backslash    
+Apostrofo (')     | XK_apostrophe    
 
 Dead Keys (Acentos e Símbolos de Modificação):
 Acento Agudo      | XK_dead_acute    
@@ -86,4 +89,4 @@ Tab               | XK_Tab
 Enter             | XK_Return         
 Espaço            | XK_space          
 Print Screen      | XK_Print          
-Pause/Break       | XK_Pause          
+Pause/Break       | XK_Pause  
