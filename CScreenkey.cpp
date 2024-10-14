@@ -62,10 +62,31 @@ void renderText(const std::string& inputText) {
 }
 
 void initializeKeyMappings() {
-    specialKeyMap[XK_Page_Up] = "PAGE UP";        // PageUp key
-    specialKeyMap[XK_Page_Down] = "PAGE DOWN";    // PageDown key
-    specialKeyMap[XK_Home] = "HOME";              // Home key
-    specialKeyMap[XK_End] = "END";                // End key
+    specialKeyMap[XK_apostrophe] = "APOSTROPHE (')";
+    specialKeyMap[XK_slash] = "SLASH (/)";
+    specialKeyMap[XK_backslash] = "BACKSLASH (\\)";
+    specialKeyMap[XK_Left] = "ARROW LEFT";
+    specialKeyMap[XK_Right] = "ARROW RIGHT";
+    specialKeyMap[XK_Up] = "ARROW UP";
+    specialKeyMap[XK_Down] = "ARROW DOWN";
+    specialKeyMap[XK_KP_Divide] = "KP_DIVIDE (/)";
+    specialKeyMap[XK_KP_Multiply] = "KP_MULTIPLY (*)";
+    specialKeyMap[XK_KP_Subtract ] = "KP_SUBTRACT (-)";
+    specialKeyMap[XK_KP_Add] = "KP_ADD (+)";
+    specialKeyMap[XK_bracketleft] = "BRACKETLEFT ([)";
+    specialKeyMap[XK_bracketright] = "BRACKETRIGHT (])";
+    specialKeyMap[XK_comma] = "COMMA (,)";
+    specialKeyMap[XK_period] = "PERIOD (.)";
+    specialKeyMap[XK_dead_acute] = "DEAD_ACUTE (´)";
+    specialKeyMap[XK_dead_tilde] = "DEAD_TILDE (~)";
+    specialKeyMap[XK_dead_cedilla] = "DEAD_CEDILLA (Ç)";
+    specialKeyMap[XK_minus] = "EQUAL (-)";
+    specialKeyMap[XK_equal] = "EQUAL (=)";
+    specialKeyMap[XK_semicolon] = "SEMICOLON (;)";
+    specialKeyMap[XK_Page_Up] = "PAGE UP";
+    specialKeyMap[XK_Page_Down] = "PAGE DOWN";
+    specialKeyMap[XK_Home] = "HOME";
+    specialKeyMap[XK_End] = "END";
     specialKeyMap[1] = "MOUSE LEFT CLICK";
     specialKeyMap[2] = "MOUSE MIDDLE CLICK";  // Fixed middle-click support
     specialKeyMap[3] = "MOUSE RIGHT CLICK";
