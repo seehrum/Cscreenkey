@@ -1,0 +1,89 @@
+
+Teclas de Navegação:
+Page Up        | XK_Page_Up         
+Page Down      | XK_Page_Down       
+Home           | XK_Home            
+End            | XK_End             
+Insert         | XK_Insert          
+Delete         | XK_Delete          
+Backspace      | XK_BackSpace       
+Left Arrow     | XK_Left            
+Right Arrow    | XK_Right           
+Up Arrow       | XK_Up              
+Down Arrow     | XK_Down            
+
+Teclas de Função:
+F1             | XK_F1              
+F2             | XK_F2              
+F3             | XK_F3              
+F4             | XK_F4              
+F5             | XK_F5              
+F6             | XK_F6              
+F7             | XK_F7              
+F8             | XK_F8              
+F9             | XK_F9              
+F10            | XK_F10             
+F11            | XK_F11             
+F12            | XK_F12             
+
+Teclas de Modificação:
+Shift (Esquerdo)   | XK_Shift_L      
+Shift (Direito)    | XK_Shift_R      
+Control (Esquerdo) | XK_Control_L    
+Control (Direito)  | XK_Control_R    
+Alt (Esquerdo)     | XK_Alt_L        
+Alt (Direito)      | XK_Alt_R        
+Caps Lock          | XK_Caps_Lock    
+Num Lock           | XK_Num_Lock     
+Scroll Lock        | XK_Scroll_Lock  
+Super              | XK_Super_L      
+Menu               | XK_Menu         
+
+Teclas Alfanuméricas:
+A-Z               | XK_A - XK_Z      
+a-z               | XK_a - XK_z      
+0-9               | XK_0 - XK_9      
+
+Teclas de Pontuação e Símbolos:
+Espaço            | XK_space         
+Exclamação        | XK_exclam        
+Arroba            | XK_at            
+Hashtag           | XK_numbersign    
+Dólar             | XK_dollar        
+Porcento          | XK_percent       
+Asterisco         | XK_asterisk      
+Menor que         | XK_less          
+Maior que         | XK_greater       
+Parênteses Esq/Dir | XK_parenleft, XK_parenright
+Colchetes Esq/Dir | XK_bracketleft, XK_bracketright
+Chaves Esq/Dir    | XK_braceleft, XK_braceright
+Vírgula           | XK_comma         
+Ponto             | XK_period        
+Ponto e vírgula   | XK_semicolon     
+Dois pontos       | XK_colon         
+Interrogação      | XK_question      
+
+Dead Keys (Acentos e Símbolos de Modificação):
+Acento Agudo      | XK_dead_acute    
+Acento Grave      | XK_dead_grave    
+Circunflexo       | XK_dead_circumflex
+Til               | XK_dead_tilde    
+Trema (Diaerese)  | XK_dead_diaeresis
+Cedilha           | XK_dead_cedilla  
+
+Teclado Numérico:
+Numérico 0-9      | XK_KP_0 - XK_KP_9
+Sinal de Mais     | XK_KP_Add         
+Sinal de Menos    | XK_KP_Subtract    
+Multiplicação     | XK_KP_Multiply    
+Divisão           | XK_KP_Divide      
+Enter (Numérico)  | XK_KP_Enter       
+Ponto Decimal     | XK_KP_Decimal     
+
+Outras Teclas Comuns:
+Escape            | XK_Escape         
+Tab               | XK_Tab            
+Enter             | XK_Return         
+Espaço            | XK_space          
+Print Screen      | XK_Print          
+Pause/Break       | XK_Pause          
